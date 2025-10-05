@@ -86,7 +86,7 @@ endfunction()
 function(igl_download_glad)
 	igl_download_project(glad
 		GIT_REPOSITORY https://github.com/libigl/libigl-glad.git
-		GIT_TAG        https://github.com/libigl/libigl-glad.git
+		GIT_TAG        651a425101365aa6e8504988ef9bb363d066c5ee
 	)
 endfunction()
 

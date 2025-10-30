@@ -132,8 +132,8 @@ endfunction()
 ## stb_image
 function(igl_download_stb)
 	igl_download_project(stb
-		GIT_REPOSITORY https://github.com/libigl/libigl-stb.git
-		GIT_TAG        cd0fa3fcd90325c83be4d697b00214e029f94ca3
+		GIT_REPOSITORY https://github.com/sgsellan/libigl-stb.git
+		GIT_TAG        e15c7e94a2aa12119497d7efdde1925edf2ea9ea
 	)
 endfunction()
 
